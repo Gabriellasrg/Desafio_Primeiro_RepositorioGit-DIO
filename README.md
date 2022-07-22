@@ -3,4 +3,5 @@ Desafio da DIO (Digital Innovation One) - Criando o meu primeiro repositório Gi
 
 
 ## Links Úteis
-[Sintaxe Básica Markdown] (https://markdown.net.br/sintaxe-basica/)
+
+[Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
